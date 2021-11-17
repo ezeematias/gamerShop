@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServiceBackendData", ".", "{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{5ebc8d6e-af74-4310-bc7e-9473f3ea8ce8}|ServiceBackendData.Logic.dll;{1453e93d-a349-431d-9f39-176e2f0020a8}|ServiceBackendData.Entities.dll;{14FF9BAA-B273-41CA-B0F9-21E721816918}|ServiceBackendData.Context.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54580"
+		Debug.AspNetCompiler.PhysicalPath = "..\ServiceBackendData\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54580\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54580"
+		Release.AspNetCompiler.PhysicalPath = "..\ServiceBackendData\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54580\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54580"
+		SlnRelativePath = "..\ServiceBackendData\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackendData.Context", "..\ServiceBackendData.Context\ServiceBackendData.Context.csproj", "{14FF9BAA-B273-41CA-B0F9-21E721816918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackendData.Entities", "..\ServiceBackendData.Entities\ServiceBackendData.Entities.csproj", "{1453E93D-A349-431D-9F39-176E2F0020A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackendData.Logic", "..\ServiceBackendData.Logic\ServiceBackendData.Logic.csproj", "{5EBC8D6E-AF74-4310-BC7E-9473F3EA8CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{14FF9BAA-B273-41CA-B0F9-21E721816918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FF9BAA-B273-41CA-B0F9-21E721816918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FF9BAA-B273-41CA-B0F9-21E721816918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FF9BAA-B273-41CA-B0F9-21E721816918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1453E93D-A349-431D-9F39-176E2F0020A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1453E93D-A349-431D-9F39-176E2F0020A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1453E93D-A349-431D-9F39-176E2F0020A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1453E93D-A349-431D-9F39-176E2F0020A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBC8D6E-AF74-4310-BC7E-9473F3EA8CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBC8D6E-AF74-4310-BC7E-9473F3EA8CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBC8D6E-AF74-4310-BC7E-9473F3EA8CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBC8D6E-AF74-4310-BC7E-9473F3EA8CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3743B1-B0AA-4D59-B9D3-A1E6791486C7}
+	EndGlobalSection
+EndGlobal

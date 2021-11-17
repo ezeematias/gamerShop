@@ -1,0 +1,12 @@
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\ServiceBackendData.Entities.dll.config
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\ServiceBackendData.Entities.dll
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\ServiceBackendData.Entities.pdb
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\EntityFramework.dll
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\EntityFramework.xml
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\obj\Debug\ServiceBackendData.Entities.csprojAssemblyReference.cache
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\obj\Debug\ServiceBackendData.Entities.csproj.CoreCompileInputs.cache
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\obj\Debug\ServiceBackendData.Entities.csproj.CopyComplete
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\obj\Debug\ServiceBackendData.Entities.dll
+C:\Users\peque\Desktop\gamerShop\ServicesGamerShop\ServiceBackendData.Entities\obj\Debug\ServiceBackendData.Entities.pdb
